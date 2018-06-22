@@ -1,0 +1,6 @@
+C:\LaboratorioExames\LaboratorioExames\bin\LaboratorioExames.dll.config
+C:\LaboratorioExames\LaboratorioExames\bin\LaboratorioExames.dll
+C:\LaboratorioExames\LaboratorioExames\bin\LaboratorioExames.pdb
+C:\LaboratorioExames\LaboratorioExames\obj\Debug\LaboratorioExames.dll
+C:\LaboratorioExames\LaboratorioExames\obj\Debug\LaboratorioExames.pdb
+C:\LaboratorioExames\LaboratorioExames\obj\Debug\LaboratorioExames.csprojResolveAssemblyReference.cache
