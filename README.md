@@ -1,2 +1,2 @@
-# Laborat-rio-Exames
+# Lab-Exams
 Hospital exams display.
